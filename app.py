@@ -217,7 +217,7 @@ with row1_col2:
         link_colors.append(skill_color_map[row['skill_name']])
     fig = go.Figure(data=[go.Sankey(
         node=dict(
-            pad=15,
+            pad=0,
             thickness=20,
             line=dict(color="black", width=0.5),
             label=all_labels,
