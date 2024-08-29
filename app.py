@@ -224,7 +224,7 @@ with row1_col2:
             color=node_colors,
             hoverlabel=dict(
                 font=dict(
-                    family="Arial",  # שינוי הפונט למשהו אחר כמו "Verdana" או "Times New Roman"
+                    family="Helvetica Neue UltraLight",  # שינוי הפונט למשהו אחר כמו "Verdana" או "Times New Roman"
                     size=12,  # שינוי גודל הפונט
                     color="black"  # צבע הפונט
                 )
@@ -240,7 +240,7 @@ with row1_col2:
 
     fig.update_layout(
         font=dict(
-            family="Arial",  # שינוי הפונט של כל הכיתוב בגרף
+            family="Helvetica Neue UltraLight",  # שינוי הפונט של כל הכיתוב בגרף
             size=14,  # שינוי גודל הפונט של כל הכיתוב בגרף
             color="black"  # צבע הפונט
         )
