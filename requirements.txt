@@ -1,4 +1,6 @@
-streamlit==1.18.0
-pandas==1.4.3
-plotly==5.8.0
-base64
+streamlit
+pandas
+plotly
+matplotlib
+seaborn
+numpy 
